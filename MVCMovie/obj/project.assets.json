@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nobita/Documents/PTPMQL/MVCMovie/MVCMovie.csproj",
+      "projectUniqueName": "/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/MVCMovie.csproj",
       "projectName": "MVCMovie",
-      "projectPath": "/Users/nobita/Documents/PTPMQL/MVCMovie/MVCMovie.csproj",
+      "projectPath": "/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/MVCMovie.csproj",
       "packagesPath": "/Users/nobita/.nuget/packages/",
-      "outputPath": "/Users/nobita/Documents/PTPMQL/MVCMovie/obj/",
+      "outputPath": "/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nobita/.nuget/NuGet/NuGet.Config"
