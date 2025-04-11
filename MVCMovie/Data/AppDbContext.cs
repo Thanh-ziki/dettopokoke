@@ -12,5 +12,7 @@ namespace MVCMovie.Data
 
         // DbSet for PersonClass model
         public DbSet<PersonClass> People { get; set; }
+        public DbSet<MVCMovie.Models.Student> Student { get; set; } = default!;
+        public DbSet<MVCMovie.Models.Create> Create { get; set; } = default!;
     }
 }
