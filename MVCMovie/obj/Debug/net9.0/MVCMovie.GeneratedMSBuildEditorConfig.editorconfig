@@ -36,6 +36,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/Views/Person/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/Views/Person/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/Views/Person/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/Views/Person/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/Views/Person/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGVyc29uL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 

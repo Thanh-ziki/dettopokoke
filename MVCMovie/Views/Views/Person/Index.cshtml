@@ -1,0 +1,19 @@
+@model List<MVCMovie.Models.PersonClass>
+
+<h2>Danh sách người</h2>
+<table border="1">
+    <tr>
+        <th>Tên</th>
+        <th>Họ và Tên</th>
+        <th>Địa chỉ</th>
+    </tr>
+    @foreach (var person in Model)
+    {
+        <tr>
+            <td>@person.Name</td>
+            <td>@person.FullName</td>
+            <td>@person.Address</td>
+        </tr>
+    }
+</table>
+<a href="/Person/Create">Thêm mới</a>
