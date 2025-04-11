@@ -1,8 +1,11 @@
-namespace MVCMovie.Models;
+using System;
 
-public class Person;
+namespace MVCMovie.Models
 {
-    public string FullName {get; set;}
-    public string Tuoi  {get; set;}
-      
+    public class PersonClass
+    {
+        public string Name { get; set; }
+        public string FullName { get; set; }
+        public string Address { get; set; }
+    }
 }

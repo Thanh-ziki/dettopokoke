@@ -97,3 +97,4 @@
 /Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/obj/Debug/net9.0/MVCMovie.pdb
 /Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/obj/Debug/net9.0/MVCMovie.genruntimeconfig.cache
 /Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/obj/Debug/net9.0/ref/MVCMovie.dll
+/Users/nobita/Documents/PhaiTrienPMQL2425k2/MVCMovie/obj/Debug/net9.0/MVCMovie.csproj.AssemblyReference.cache
